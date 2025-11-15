@@ -25,6 +25,84 @@ Here are some ideas to get you started:
   <img src="https://www.flaticon.com/free-icon/letter-c_3665923?term=c&page=1&position=3&origin=search&related_id=3665923" alt="icon" width="50" height="50" />
 </div>
 
+
+
+
+
+
+<h1 align="center">Hi there, I'm Nisagi 👋</h1>
+
+<p align="center">
+  🌱 Passionate Learner | 💻 Developer | 🚀 Tech Explorer  
+</p>
+
+---
+
+## 👩‍💻 About Me
+- 🔭 I’m currently working on improving my skills in **Java, React, and Full-Stack Development**  
+- 🌱 I love learning new technologies and building real projects  
+- 🎯 Goal: Become a versatile developer capable of creating clean and user-friendly applications  
+- ✨ Fun fact: I learn something new every single day!
+
+---
+
+## 🛠️ Tech Stack
+
+### **Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### **Frontend**
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### **Backend & Tools**
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nisagi&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nisagi&theme=radical" height="150" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+Here are a few projects I'm proud of:
+
+| Project | Description |
+|--------|-------------|
+| **Project 1** | A Java-based application demonstrating clean OOP concepts. |
+| **Project 2** | A React web app with modern UI and API integration. |
+| **Project 3** | A Python automation tool to make tasks easier. |
+
+👉 *I can fill this section with your real projects if you tell me their names!*
+
+---
+
+## 📫 Connect With Me
+Feel free to reach out or follow my work!
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nisagi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR-LINKEDIN-LINK)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+
+---
+
+## 💬 Quote
+> “Code is like humor. When you have to explain it, it’s bad.”
+
+---
+
+⭐ *Thank you for visiting my profile! Have an amazing day!*  
+
 <br>
 
 <div align="center">
