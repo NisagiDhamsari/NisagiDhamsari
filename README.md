@@ -15,21 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://www.flaticon.com/free-icon/letter-c_3665923?term=c&page=1&position=3&origin=search&related_id=3665923" alt="icon" width="50" height="50" />
-</div>
-
-
-
-
-
-
 <h1 align="center">Hi there, I'm Nisagi 👋</h1>
 
 <p align="center">
@@ -46,7 +31,10 @@ Here are some ideas to get you started:
 
 ---
 
-## 🛠️ Tech Stack
+
+
+
+<!-- ## 🛠️ Tech Stack
 
 ### **Languages**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -101,10 +89,17 @@ Feel free to reach out or follow my work!
 
 ---
 
-⭐ *Thank you for visiting my profile! Have an amazing day!*  
+⭐ *Thank you for visiting my profile! Have an amazing day!*  -->
 
 <br>
-
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+  </div>
 <div align="center">
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
@@ -113,3 +108,12 @@ Feel free to reach out or follow my work!
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
 </div>
+
+
+
+
+<p align="left"> <img src="https://skillicons.dev/icons?i=java,python,js,cpp,c,html,css,sql" /> </p>
+
+<p align="left"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,figma,git,github,mysql,mongodb,vscode,idea" /> </p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true" height="160px"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight&hide_border=true" /> </p>
