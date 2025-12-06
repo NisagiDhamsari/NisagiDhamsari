@@ -117,3 +117,17 @@ Feel free to reach out or follow my work!
 <p align="left"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,figma,git,github,mysql,mongodb,vscode,idea" /> </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true" height="160px"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight&hide_border=true" /> </p>
+
+
+<img src="https://raw.githubusercontent.com/yourgreatbigfuture/animated-tech-icons/main/java.gif" width="60"/>
+
+
+<img src="https://raw.githubusercontent.com/yourgreatbigfuture/animated-tech-icons/main/java.gif" width="60"/>
+Python
+<img src="https://raw.githubusercontent.com/yourgreatbigfuture/animated-tech-icons/main/python.gif" width="60"/>
+JavaScript
+<img src="https://raw.githubusercontent.com/yourgreatbigfuture/animated-tech-icons/main/javascript.gif" width="60"/>
+C / C++
+<img src="https://raw.githubusercontent.com/yourgreatbigfuture/animated-tech-icons/main/c.gif" width="60"/> <img src="https://raw.githubusercontent.com/yourgreatbigfuture/animated-tech-icons/main/cpp.gif" width="60"/>
+HTML / CSS
+<img src="https://raw.githubusercontent.com/yourgreatbigfuture/animated-tech-icons/main/html.gif" width="60"/> <img src="https://raw.githubusercontent.com/yourgreatbigfuture/animated-tech-icons/main/css.gif" width="60"/
