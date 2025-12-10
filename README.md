@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 
 ---
 
-## 👩‍💻 About Me
+<!--## 👩‍💻 About Me
 - 🔭 I’m currently working on improving my skills in **Java, React, and Full-Stack Development**  
 - 🌱 I love learning new technologies and building real projects  
 - 🎯 Goal: Become a versatile developer capable of creating clean and user-friendly applications  
 - ✨ Fun fact: I learn something new every single day!
 
----
+----->
 
 
 
@@ -91,7 +91,7 @@ Feel free to reach out or follow my work!
 
 ⭐ *Thank you for visiting my profile! Have an amazing day!*  -->
 
-<br>
+<!--<br>
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
