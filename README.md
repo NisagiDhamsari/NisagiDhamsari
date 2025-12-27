@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ---
 
--## 👩‍💻 About Me
+<!-- -## 👩‍💻 About Me
 - 🔭 I’m currently working on improving my skills in **Java, React, and Full-Stack Development**  
 - 🌱 I love learning new technologies and building real projects  
 - 🎯 Goal: Become a versatile developer capable of creating clean and user-friendly applications  
