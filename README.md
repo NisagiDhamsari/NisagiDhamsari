@@ -15,12 +15,17 @@ Hi! I'm **Nisagi**, a first-year Computer Science undergraduate at University of
 ၊၊||၊  Always learning new programming concepts and technologies<br> 
 ☕︎    Currently improving my skills in programming and software development<br><br>I enjoy exploring how technology works and building projects that help me learn and grow as a developer.<br><br>
 
+<p align="right">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenUyaG84Y2V2dHRnMGczMGJ6NGdzYWNhNnNvYTg0bm8yb2lydGFtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="400">
+</p>
+
 # ᝰ. Tech Stack:<br>
 
 [![My Skills](https://skillicons.dev/icons?i=java,c,php,py,spring,mysql,postgres)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,angular,react,nodejs,tailwind)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=docker,figma,flutter,git,github,idea,visualstudio,matlab,ps,aws,postman,vscode)](https://skillicons.dev)
 <br><br>
+
 
 # °❀⋆. GitHub Stats:
 <!--
@@ -62,6 +67,10 @@ Hi! I'm **Nisagi**, a first-year Computer Science undergraduate at University of
 
 
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG5uNGN4a3d5bndpOHQ5Y3l5a2Q4b2t1dTBsY2s5a3k1eHVhMG9pYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="400">
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenUyaG84Y2V2dHRnMGczMGJ6NGdzYWNhNnNvYTg0bm8yb2lydGFtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="400">
+</p>
+https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODR5M3Vja3ZtOGxyb3J0cnE4ODQ4M2QycGM1cnl1ZzZnZXNoYTdrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif
 
-<img src="https://pin.it/27ULOCiRU" width="400">
+
+
