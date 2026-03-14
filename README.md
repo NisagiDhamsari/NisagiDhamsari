@@ -1,4 +1,4 @@
-
+<img src="githubprofile.png" align="center">
 <h1 align="center">Hi there, I'm Nisagi 👋</h1>
 
 <p align="center">
@@ -22,6 +22,3 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Fullstack+Developer;Passionate+Learner)
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
-## 👋 Hello, I'm Nisagi
-<img src="githubprofile.png" height=300 >
