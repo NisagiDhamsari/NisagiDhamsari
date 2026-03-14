@@ -24,4 +24,4 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 ## 👋 Hello, I'm Nisagi
-<img src=""C:\Users\ASUS\Downloads\githubprofile.png"" width="300">
+<img src="githubprofile.png" height=300 >
