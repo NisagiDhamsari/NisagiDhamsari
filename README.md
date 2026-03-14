@@ -18,9 +18,10 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,angular,react,nodejs,tailwind)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=docker,figma,flutter,git,github,idea,visualstudio,matlab,ps,aws,postman,vscode)](https://skillicons.dev)
 
+# Hi 👋 I'm Nisagi
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Fullstack+Developer;Passionate+Learner)
 
-
-
-<br/>
-
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+## 👋 Hello, I'm Nisagi
+<img src=""C:\Users\ASUS\Downloads\githubprofile.png"" width="300">
