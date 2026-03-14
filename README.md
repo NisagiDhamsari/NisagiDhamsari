@@ -55,23 +55,23 @@ Hi! I'm **Nisagi**, a first-year Computer Science undergraduate at University of
 
 -->
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NisagiDhamsari&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" height="165">
   <img src="https://nirzak-streak-stats.vercel.app/?user=NisagiDhamsari&theme=nightowl&hide_border=false" height="165">
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NisagiDhamsari&theme=nightowl&hide_border=false&layout=compact">
-</p> -->
+</p> 
 
 
 
 
-
+<!--
  <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenUyaG84Y2V2dHRnMGczMGJ6NGdzYWNhNnNvYTg0bm8yb2lydGFtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="400">
-</p>
-https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODR5M3Vja3ZtOGxyb3J0cnE4ODQ4M2QycGM1cnl1ZzZnZXNoYTdrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif 
+   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenUyaG84Y2V2dHRnMGczMGJ6NGdzYWNhNnNvYTg0bm8yb2lydGFtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="400"> 
+ </p> 
+ https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODR5M3Vja3ZtOGxyb3J0cnE4ODQ4M2QycGM1cnl1ZzZnZXNoYTdrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif  
 
-
+-->
 
