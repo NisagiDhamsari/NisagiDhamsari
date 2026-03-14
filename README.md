@@ -29,14 +29,14 @@ Hi! I'm **Nisagi**, a first-year Computer Science undergraduate at University of
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NisagiDhamsari&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <br><br>-->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NisagiDhamsari&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false" height="165">
   <img src="https://nirzak-streak-stats.vercel.app/?user=NisagiDhamsari&theme=nightowl&hide_border=false" height="165">
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NisagiDhamsari&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
-</p>
+</p> -->
 
 <!--# ᝰ. Tech Stack:<br>
 
@@ -48,3 +48,20 @@ Hi! I'm **Nisagi**, a first-year Computer Science undergraduate at University of
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Fullstack+Developer;Passionate+Learner)
 
 -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NisagiDhamsari&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" height="165">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=NisagiDhamsari&theme=nightowl&hide_border=false" height="165">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NisagiDhamsari&theme=nightowl&hide_border=false&layout=compact">
+</p>
+
+
+
+
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG5uNGN4a3d5bndpOHQ5Y3l5a2Q4b2t1dTBsY2s5a3k1eHVhMG9pYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="400">
+
+<img src="https://pin.it/27ULOCiRU" width="400">
