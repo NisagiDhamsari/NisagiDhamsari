@@ -1,11 +1,13 @@
 <img src="githubprofile.png" align="center">
 <h1 align="center">Hi there, I'm Nisagi 👋</h1>
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open+Sauce&size=25&duration=3000&color=d896ff&center=true&vCenter=true&width=800&lines=Computer+Science+Undergraduate;Fullstack+Developer;Passionate+Learner)
+
+
 <p align="center">
   🌱 Passionate Learner | 💻 Developer | 🚀 Tech Explorer  
 </p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=d896ff&center=true&vCenter=true&width=800&lines=Computer+Science+Undergraduate;Fullstack+Developer;Passionate+Learner)
 
 
 
