@@ -8,7 +8,7 @@
 
 
 
-# 📊 About Me:<br><br>
+# 📊 About Me:<br>
 Hi! I'm **Nisagi**, a first-year Computer Science undergraduate in University of Kelaniya who is passionate about technology and software development.<br><br> 🎓 Currently studying Computer Science<br>
 💻 Interested in full stack development, web development, and problem solving<br> 
 🚀 Always learning new programming concepts and technologies<br> 
@@ -19,7 +19,7 @@ Hi! I'm **Nisagi**, a first-year Computer Science undergraduate in University of
 ![](https://nirzak-streak-stats.vercel.app/?user=NisagiDhamsari&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NisagiDhamsari&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-# 📊 Tech Stack:<br><br>
+# 📊 Tech Stack:<br>
 
 [![My Skills](https://skillicons.dev/icons?i=java,c,php,py,spring,mysql,postgres)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,angular,react,nodejs,tailwind)](https://skillicons.dev)
