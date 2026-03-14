@@ -8,8 +8,8 @@
 
 
 
-# 📊 About Me:<br>
-Hi! I'm **Nisagi**, a first-year Computer Science undergraduate in University of Kelaniya who is passionate about technology and software development.<br><br> 🎓 Currently studying Computer Science<br>
+# ✧˚. About Me:<br>
+Hi! I'm **Nisagi**, a first-year Computer Science undergraduate at University of Kelaniya who is passionate about technology and software development.<br><br> 🎓 Currently studying Computer Science<br>
 💻 Interested in full stack development, web development, and problem solving<br> 
 🚀 Always learning new programming concepts and technologies<br> 
 📚 Currently improving my skills in programming and software development<br><br>I enjoy exploring how technology works and building projects that help me learn and grow as a developer.<br>
