@@ -10,14 +10,15 @@
 
 # ✧˚. About Me:<br>
 Hi! I'm **Nisagi**, a first-year Computer Science undergraduate at University of Kelaniya who is passionate about technology and software development.<br><br> 
+
 </>  Currently studying Computer Science<br>
 ᝰ.  Interested in full stack development, web development, and problem solving<br> 
 ၊၊||၊  Always learning new programming concepts and technologies<br> 
 ☕︎    Currently improving my skills in programming and software development<br><br>I enjoy exploring how technology works and building projects that help me learn and grow as a developer.<br><br>
 
-<p align="right">
+<!-- <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenUyaG84Y2V2dHRnMGczMGJ6NGdzYWNhNnNvYTg0bm8yb2lydGFtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="400">
-</p>
+</p> -->
 
 # ᝰ. Tech Stack:<br>
 
@@ -67,10 +68,10 @@ Hi! I'm **Nisagi**, a first-year Computer Science undergraduate at University of
 
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenUyaG84Y2V2dHRnMGczMGJ6NGdzYWNhNnNvYTg0bm8yb2lydGFtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="400">
 </p>
-https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODR5M3Vja3ZtOGxyb3J0cnE4ODQ4M2QycGM1cnl1ZzZnZXNoYTdrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif
+https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODR5M3Vja3ZtOGxyb3J0cnE4ODQ4M2QycGM1cnl1ZzZnZXNoYTdrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif -->
 
 
 
