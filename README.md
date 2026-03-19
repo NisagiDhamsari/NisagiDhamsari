@@ -22,7 +22,7 @@ Hi! I'm **Nisagi**, a first-year Computer Science undergraduate at University of
 
 # ᝰ. Tech Stack:<br>
 
-[![My Skills](https://skillicons.dev/icons?i=java,c,php,py,spring,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,php,py,spring,mysql,postgres)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,angular,react,nodejs,tailwind)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=docker,figma,flutter,git,github,idea,visualstudio,matlab,ps,aws,postman,vscode)](https://skillicons.dev)
 <br><br>
