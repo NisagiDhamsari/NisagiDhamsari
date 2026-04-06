@@ -54,7 +54,7 @@ Hi! I'm **Nisagi**, a first-year Computer Science undergraduate at University of
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Fullstack+Developer;Passionate+Learner)
 
 -->
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NisagiDhamsari&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" height="165">
   <img src="https://nirzak-streak-stats.vercel.app/?user=NisagiDhamsari&theme=nightowl&hide_border=false" height="165">
@@ -63,7 +63,7 @@ Hi! I'm **Nisagi**, a first-year Computer Science undergraduate at University of
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NisagiDhamsari&theme=nightowl&hide_border=false&layout=compact">
 </p>  
-
+-->
 
 <!--
  <p align="center">
