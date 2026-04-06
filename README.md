@@ -72,4 +72,3 @@ Hi! I'm **Nisagi**, a first-year Computer Science undergraduate at University of
  https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODR5M3Vja3ZtOGxyb3J0cnE4ODQ4M2QycGM1cnl1ZzZnZXNoYTdrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif  
 
 -->
-
