@@ -23,7 +23,7 @@ Hi! I'm **Nisagi**, a first-year Computer Science undergraduate at University of
 [![My Skills](https://skillicons.dev/icons?i=docker,figma,flutter,git,github,idea,visualstudio,androidstudio,matlab,ps,aws,postman,vscode)](https://skillicons.dev)
 <br><br>
 
-<!--
+
 # °❀⋆. GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=NisagiDhamsari&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)<br/>
@@ -31,7 +31,6 @@ Hi! I'm **Nisagi**, a first-year Computer Science undergraduate at University of
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NisagiDhamsari&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <br><br>
 
--->
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NisagiDhamsari&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false" height="165">
   <img src="https://nirzak-streak-stats.vercel.app/?user=NisagiDhamsari&theme=nightowl&hide_border=false" height="165">
