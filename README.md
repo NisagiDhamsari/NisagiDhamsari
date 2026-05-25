@@ -16,10 +16,6 @@ Hi! I'm **Nisagi**, a first-year Computer Science undergraduate at University of
 ၊၊||၊  Always learning new programming concepts and technologies<br> 
 ☕︎    Currently improving my skills in programming and software development<br><br>I enjoy exploring how technology works and building projects that help me learn and grow as a developer.<br><br>
 
-<!-- <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenUyaG84Y2V2dHRnMGczMGJ6NGdzYWNhNnNvYTg0bm8yb2lydGFtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="400">
-</p> -->
-
 # ᝰ. Tech Stack:<br>
 
 [![My Skills](https://skillicons.dev/icons?i=java,c,php,py,dart,spring,mysql,postgres)](https://skillicons.dev)<br>
