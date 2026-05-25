@@ -45,7 +45,7 @@ Hi! I'm **Nisagi**, a first-year Computer Science undergraduate at University of
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NisagiDhamsari&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
 </p> -->
 
-<!--# ᝰ. Tech Stack:<br>
+# ᝰ. Tech Stack:<br>
 
 [![My Skills](https://skillicons.dev/icons?i=java,c,php,py,spring,mysql,postgres)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,angular,react,nodejs,tailwind)](https://skillicons.dev)
@@ -55,7 +55,7 @@ Hi! I'm **Nisagi**, a first-year Computer Science undergraduate at University of
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Fullstack+Developer;Passionate+Learner)
 
 
--->
+
 <!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NisagiDhamsari&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" height="165">
